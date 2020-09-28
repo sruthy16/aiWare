@@ -1,0 +1,2 @@
+# aiWare
+ Product Description: Social awareness app to keep people up to date on the global affairs regarding tech developments and the use of AI. Designed a user-friendly application that will consist of a news-feed aspect that will inform users of any recent news about technological innovation. The chat/communication feature that will allow people to interact with other users in whatever way they see fit.  This will let users give input on their ideas for possible policies, laws and legislation that would be amicable for the a.i.
